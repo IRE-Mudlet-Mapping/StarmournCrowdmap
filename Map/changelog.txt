@@ -1,1 +1,3 @@
-
+Added special exits for Scatterhome and Song subsecs
+Added additonal weights for gatewarp (600) and transfers(200)
+Voidgate network full mapped, including all connected stations, and weights
