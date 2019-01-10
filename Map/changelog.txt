@@ -4,3 +4,5 @@ Voidgate network full mapped, including all connected stations, and weights
 Cleanup for public release: special exit fixes, roomless area cleanup, SURVEY alignment
 Added voidgate PTPs as per Update 56
 Fix for incorrect special exit pointers
+More special exit fixes
+Ixsei Desert mapped (UPDATES 65) (area name changed - was Fort Ixsei)
