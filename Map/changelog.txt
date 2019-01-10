@@ -1,6 +1,6 @@
 changelog ={
   [[Added special exits for Scatterhome and Song subsecs]],
-  [[Added additonal weights for gatewarp (600) and transfers(200),]]
+  [[Added additonal weights for gatewarp (600) and transfers(200)]],
   [[Voidgate network full mapped, including all connected stations, and weights]],
   [[Cleanup for public release: special exit fixes, roomless area cleanup, SURVEY alignment]],
   [[Added voidgate PTPs as per Update 56]],
