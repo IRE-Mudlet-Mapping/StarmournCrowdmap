@@ -6,3 +6,4 @@ Added voidgate PTPs as per Update 56
 Fix for incorrect special exit pointers
 Special Exit cleanup
 Ixsei Desert mapped (UPDATES 65) (Area rename from Fort Ixsei)
+Ferry room fix: you should no longer get 'lost' while using transports
