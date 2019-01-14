@@ -9,4 +9,5 @@ changelog ={
   [[Ixsei Desert mapped (UPDATES 65) (Area rename from Fort Ixsei)]],
   [[Ferry room fix: you should no longer get 'lost' while using transports]],
   [[You should now be able to view the changelog!]],
+  [[Added Greenwilds PTPs]],
 }
