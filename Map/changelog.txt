@@ -10,5 +10,5 @@ changelog ={
   [[Ferry room fix: you should no longer get 'lost' while using transports]],
   [[You should now be able to view the changelog!]],
   [[Added Greenwilds PTPs]],
-  [[Partial map of Wundishu Biotech added]]
+  [[Features now supported: try GOTO FEATURE JUNK! Partial map of Wundishu Biotech added]]
 }
