@@ -12,5 +12,6 @@ changelog ={
   [[Added Greenwilds PTPs]],
   [[Features now supported: try GOTO FEATURE JUNK! Partial map of Wundishu Biotech added]],
   [[Backend work for Lift features; Fix for Arcturus Voidgate]],
-  [[Initial map of Tranquility Deepness]]
+  [[Initial map of Tranquility Deepness]],
+  [[Initial map of New Dizamaki]],
 }
