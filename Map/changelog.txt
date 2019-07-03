@@ -15,4 +15,5 @@ changelog ={
   [[Initial map of Tranquility Deepness]],
   [[Initial map of New Dikamazi]],
   [[ND fixes, features added, should work correctly now...]],
+  [[Added more of New Dikamazi]],
 }
