@@ -16,4 +16,6 @@ changelog ={
   [[Initial map of New Dikamazi]],
   [[ND fixes, features added, should work correctly now...]],
   [[Added more of New Dikamazi]],
+  [[Added missing lift to Vertenalith]],
+  [[Changed room weights on lift rooms]],
 }
