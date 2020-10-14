@@ -18,4 +18,5 @@ changelog ={
   [[Added more of New Dikamazi]],
   [[Added missing lift to Vertenalith]],
   [[Changed room weights on lift rooms]],
+  [[Added STAGE Feature, mapped several new rooms, areas, and special exits]],
 }
