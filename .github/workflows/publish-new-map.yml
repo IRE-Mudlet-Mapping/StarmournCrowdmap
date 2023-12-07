@@ -1,0 +1,25 @@
+name: Publish new map version
+
+on:
+  push:
+    branches:
+      - development
+
+jobs:
+  publish-new-map:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4.0.0
+    - name: Generate map data compatible with map reader as well as json files
+      run: |
+        yarn install --frozen-lockfile
+        node ./map-utilities/generate-map.js
+
+    - name: Copy map file to website directory
+      run: |
+        cp -R Map/ website/
+    - uses: JamesIves/github-pages-deploy-action@v4.5.0
+      with:
+        branch: gh-pages
+        folder: website
