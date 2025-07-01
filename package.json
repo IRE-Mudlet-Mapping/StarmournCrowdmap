@@ -11,6 +11,6 @@
     "yargs": "^17.7.2"
   },
   "dependencies": {
-    "dotenv": "^16.5.0"
+    "dotenv": "^17.0.0"
   }
 }
