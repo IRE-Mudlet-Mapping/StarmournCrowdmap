@@ -540,11 +540,6 @@ ini@^5.0.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-5.0.0.tgz#a7a4615339843d9a8ccc2d85c9d81cf93ffbc638"
   integrity sha512-+N0ngpO3e7cRUWOJAS7qw0IZIVc6XPrW4MlFBdD066F2L4k1L6ker3hLqSq7iXxU5tgS4WGkIUElWn5vogAEnw==
 
-int64-buffer@^0.99.1007:
-  version "0.99.1007"
-  resolved "https://registry.yarnpkg.com/int64-buffer/-/int64-buffer-0.99.1007.tgz#211ea089a2fdb960070a2e77cd6d17dc456a5220"
-  integrity sha512-XDBEu44oSTqlvCSiOZ/0FoUkpWu/vwjJLGSKDabNISPQNZ5wub1FodGHBljRsrR0IXRPq7SslshZYMuA55CgTQ==
-
 is-number@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
@@ -614,11 +609,6 @@ lodash.memoize@^4.1.2:
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
   integrity sha1-vMbEmkKihA7Zl/Mj6tpezRguC/4=
 
-lodash@4.18.0:
-  version "4.18.0"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.18.0.tgz#dfd726f07ab2e39dd763de28fcf66e395c03e440"
-  integrity sha512-l1mfj2atMqndAHI3ls7XqPxEjV2J9ZkcNyHpoZA3r2T1LLwDB69jgkMWh71YKwhBbK0G2f4WSn05ahmQXVxupA==
-
 lodash@^4.17.21, lodash@^4.18.1:
   version "4.18.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.18.1.tgz#ff2b66c1f6326d59513de2407bf881439812771c"
@@ -656,13 +646,12 @@ ms@^2.1.1, ms@^2.1.3:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-mudlet-map-binary-reader@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/mudlet-map-binary-reader/-/mudlet-map-binary-reader-0.9.0.tgz#aa2964223610ed525fda16691a72e1ad3e9d5c9b"
-  integrity sha512-ntS8qZhvkDwZx+uB53SsP6xHpZ8Hh17ePLAahaN9Pr/3A7CJvVdWO3awch9Fk1botHSBA8aqvpSzU6sIQi7hQw==
+mudlet-map-binary-reader@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/mudlet-map-binary-reader/-/mudlet-map-binary-reader-1.2.0.tgz#c963b6688ea0fba094084d5089ec8408447cd071"
+  integrity sha512-CgjNPGkM/X3X/3CozMWn334z7aUbpvev5FSYMHMqo6cqsmdYj/vSUmCsKgWqkedCdL8Qsu+zr7bmL9i82dkvUw==
   dependencies:
-    lodash "4.18.0"
-    qtdatastream "^1.1.0"
+    qtdatastream-web "^0.0.1"
 
 node-cleanup@^2.1.2:
   version "2.1.2"
@@ -728,13 +717,10 @@ qs@^6.11.1:
   dependencies:
     side-channel "^1.0.6"
 
-qtdatastream@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/qtdatastream/-/qtdatastream-1.1.0.tgz#dcc02e289ffbb06614ab8945385cf99d277a3577"
-  integrity sha512-XMcV74byyj5HJXDGco57tOQHvPmgUG80ke3Cn+v0VJYtph3Is+6/1tMk2vQNlJsecsBENrC4yP3DynsEf3mfWA==
-  dependencies:
-    debug "^4.1.1"
-    int64-buffer "^0.99.1007"
+qtdatastream-web@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/qtdatastream-web/-/qtdatastream-web-0.0.1.tgz#727d115dfd0943d783ec2bf45f27686f036227cf"
+  integrity sha512-2sqKGZmafCG8Gd4PQktoYlD3EabGnzCL7u0F/WkUY5U2Av2P0zeZnkDOAsTBWM/81+NhNpzyv5PSd6STZbvC+w==
 
 readline-sync@^1.4.9:
   version "1.4.10"
