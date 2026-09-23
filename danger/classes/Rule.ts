@@ -1,7 +1,9 @@
-//import { DangerDSLType, message, warn, fail } from "danger";
-
 import type { DangerDSLType } from "danger";
 import _ from "lodash";
+
+declare const fail: typeof import("danger").fail;
+declare const message: typeof import("danger").message;
+declare const warn: typeof import("danger").warn;
 
 /**
  * Type alias for a function that returns a human readable name.
