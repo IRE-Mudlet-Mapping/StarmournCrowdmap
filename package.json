@@ -17,7 +17,7 @@
     "yargs": "^18.2.0"
   },
   "dependencies": {
-    "dotenv": "^17.4.2"
+    "dotenv": "^18.0.4"
   },
   "engines": {
     "node": ">=22.12.0"
